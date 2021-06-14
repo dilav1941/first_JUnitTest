@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-13T23:21:58" hostname="MacBook-Pro-Dmitriy-Lavrikov.local" time="0.025">
+  <properties/>
+  <testcase name="circleArea()" classname="AppTest" time="0.021"/>
+  <testcase name="negative_number()" classname="AppTest" time="0.002"/>
+  <testcase name="circleLenght()" classname="AppTest" time="0.002"/>
+  <system-out><![CDATA[Запуск теста
+Запуск нового теста
+Завершение теста
+Запуск нового теста
+Завершение теста
+Запуск нового теста
+Завершение теста
+Тест выполнен
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
